@@ -10,3 +10,4 @@ Track your income and expenses with this beautiful Vue.js app.
 
 ## Usage
 Open `index.html` in your browser.
+# Update
